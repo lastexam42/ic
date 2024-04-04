@@ -1,6 +1,6 @@
 # ic
 
-accWho was the chairman of the drafting committee of the Indian Constitution?
+Who was the chairman of the drafting committee of the Indian Constitution?
 A. Jawaharlal Nehru
 B. Dr. B.R. Ambedkar
 C. Sardar Patel
